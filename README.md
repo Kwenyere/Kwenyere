@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kwenyere
-- 👀 I’m interested in Software Engineeing
+- 👀 Frontend Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
