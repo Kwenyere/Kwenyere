@@ -2,6 +2,7 @@
 - 👀 Frontend Developer
 - 🌱 Skill Set: HTML,CSS,JAVASCRIPT,REACT.
 - 💞️ Looking forward to working with you.
+- You can reach me by sending an email to paulkwenye@gmail.com
   
 
 <!---
