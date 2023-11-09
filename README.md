@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kwenyere
 - 👀 Frontend Developer
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Skill Set: HTML,CSS,JAVASCRIPT,REACT.
+- 💞️ Looking forward to working with you.
+  
 
 <!---
 Kwenyere/Kwenyere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
